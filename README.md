@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="33%">
 
+<br>
 
 ### Backend
 
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpatterson31&layout=compact&theme=tokyonight&card_width=800)](https://github.com/arpatterson31/github-readme-stats)
 
-## GitHub Stats
+## ![GitHub Img](./img/GitHub-Mark-32px.png) GitHub Stats
 
 <a href="https://github.com/arpatterson31/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpatterson31&show_icons=true&theme= tokyonight" />
