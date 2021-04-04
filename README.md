@@ -1,6 +1,6 @@
-![header img]('./img/header.png)
+![header img](./img/header.png)
 
-<h3> < Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> /> </h3>
+<h3 align="center"> < Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> /> </h3>
 
 <!--
 **arpatterson31/arpatterson31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
