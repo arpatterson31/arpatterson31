@@ -47,4 +47,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpatterson31&show_icons=true&theme= tokyonight" />
 </a>
 
-### 💖 Thanks for stopping by! 💖 ![Profile views](https://gpvc.arturio.dev/arpatterson31)
+### 💖 Thanks for stopping by! 💖
+
+![Profile views](https://gpvc.arturio.dev/arpatterson31)
