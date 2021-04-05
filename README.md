@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/arpatterson31/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpatterson31&show_icons=true&theme= tokyonight" />
 </a>
+
+### 💖 Thanks for stopping by! 💖 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arpatterson31.arpatterson31)
