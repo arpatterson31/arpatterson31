@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpatterson31&layout=compact&theme=tokyonight&card_width=800)](https://github.com/arpatterson31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpatterson31&layout=compact&theme=tokyonight&card_width=500)](https://github.com/arpatterson31/github-readme-stats)
 
 ### ![GitHub Img](./img/GitHub-Mark-32px.png) GitHub Stats
 
