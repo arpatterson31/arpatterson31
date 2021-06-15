@@ -50,5 +50,3 @@ Here are some ideas to get you started:
 ### 💖 Thanks for stopping by! 💖
 
 ![Profile views](https://gpvc.arturio.dev/arpatterson31)
-
-![Visitor Count](https://profile-counter.glitch.me/arpatterson31/count.svg)
