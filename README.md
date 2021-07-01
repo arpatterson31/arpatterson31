@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpatterson31&layout=compact&theme=tokyonight&card_width=500)](https://github.com/arpatterson31/github-readme-stats)
 
