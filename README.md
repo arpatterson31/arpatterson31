@@ -30,11 +30,13 @@ Here are some ideas to get you started:
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
