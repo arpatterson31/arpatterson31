@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpatterson31&layout=compact&theme=tokyonight&card_width=500)](https://github.com/arpatterson31/github-readme-stats)
 
-### ![GitHub Img](./img/GitHub-Mark-32px.png) <img src="https://img.icons8.com/nolan/32/github.png"/> GitHub Stats <img src="https://img.icons8.com/color/32/000000/github--v1.png"/>
+### ![GitHub Img](./img/GitHub-Mark-32px.png) <img src="https://img.icons8.com/nolan/64/github.png"/> GitHub Stats <img src="https://img.icons8.com/color/32/000000/github--v1.png"/>
 
 <a href="https://github.com/arpatterson31/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpatterson31&show_icons=true&theme= tokyonight" />
