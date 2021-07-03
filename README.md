@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 💻 🛠️ Tech and Tools
 
-**OS** : <img src="https://img.icons8.com/nolan/48/mac-os.png" width="25px"/>  macOS Big Sur 
+**OS** : <a href="https://icons8.com/icon/48112/apple-logo"><img src="https://img.icons8.com/nolan/48/mac-os.png" width="25px"/></a>   macOS Big Sur 
 
 **Editor** : ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
