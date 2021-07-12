@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/30aud6)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/30aud6/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flatt-square&logo=gmail&logoColor=white)](mailto:audrey.patterson31@gmail.com)
-[![Dev Badge](https://img.shields.io/badge/-Dev-e4405f?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/arpatterson31)
+[![Dev Badge](https://img.shields.io/badge/-Dev-000000?style=flat-square&logo=Dev.to&logoColor=white)](https://dev.to/arpatterson31)
 
 <!--
 **arpatterson31/arpatterson31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
