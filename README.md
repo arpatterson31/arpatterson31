@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React Native-333333?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
