@@ -4,6 +4,10 @@
 
 I'm Audrey! I'm a Software Developer based in Seattle, WA. I'm experienced in JavaScript, React, and Node.js. I have over ten years of experience in software training and implementation. I love that technology is constantly changing because it allows me to keep my mind active as I continue to learn new things. I made the jump into software development by learning through free courses and then finally completing a six month coding bootcamp. If I can make a positive impact on the world through the projects I work on or create, then moving into this industry has been worth it.
 
+Aside from software development, I enjoy spending time with my daughter and two chonky kitties. I love creating art, collecting art in the form of tattoos, and geeking out over the hottest celebrity gossip!
+
+I love making new connections so please reach out to me on the following social accounts.
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-patterson31/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/30aud6)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/30aud6/)
