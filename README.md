@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/arpatterson31)
 
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,React%20Native,Redux,Node.js,Express.js,HTML,CSS,Bootstrap,Material-UI)](https://github.com/arpatterson31)
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Databases%20and%20Tools&badges=MongoDB,Mongoose,Git,GitHub,Heroku,Netlify,Visual%20Studio%20Code)](https://github.com/arpatterson31)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Databases%20and%20Tools&badges=MongoDB,Mongoose,Git,GitHub,Heroku,Netlify,VSCode)](https://github.com/arpatterson31)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpatterson31&layout=compact&theme=tokyonight&card_width=500)](https://github.com/arpatterson31/github-readme-stats)
 
