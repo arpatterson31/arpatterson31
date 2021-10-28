@@ -31,19 +31,14 @@ Here are some ideas to get you started:
 
 ### 💻 🛠️ Tech and Tools
 
-**OS** : <a href="https://icons8.com/icon/48112/apple-logo"><img src="https://img.icons8.com/nolan/48/mac-os.png" width="25px"/></a>   macOS Big Sur 
-
-**Editor** : ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/arpatterson31)
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
 ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -65,3 +60,7 @@ Here are some ideas to get you started:
 ### 💖 Thanks for stopping by! 💖
 
 ![Profile views](https://gpvc.arturio.dev/arpatterson31)
+
+### Shout-out Resources
+
+- [GitHub HR Profile](https://githubprofile.com/)
