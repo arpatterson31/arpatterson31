@@ -33,19 +33,8 @@ Here are some ideas to get you started:
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)](https://github.com/arpatterson31)
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass) 
-![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
-![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express)
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages%20and%20Framework&badges=JavaScript,React,React%20Native,Redux,Node.js,Express.js,HTML,CSS,Bootstrap,Material-UI)](https://github.com/arpatterson31)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Databases%20and%20Tools&badges=MongoDB,Mongoose,Git,GitHub,Heroku,Netlify,Visual%20Studio%Code)](https://github.com/arpatterson31)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpatterson31&layout=compact&theme=tokyonight&card_width=500)](https://github.com/arpatterson31/github-readme-stats)
 
