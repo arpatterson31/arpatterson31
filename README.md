@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpatterson31&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+<img width="672" alt="GitHub Skyline for 2021" src="https://user-images.githubusercontent.com/33011362/166800293-7cb21fc5-d7c9-4eb1-97f1-865b8db3a964.png">
+
 ### 💖 Thanks for stopping by! 💖
 
 ![Profile views](https://gpvc.arturio.dev/arpatterson31)
