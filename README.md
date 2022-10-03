@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ### ![GitHub Img](./img/GitHub-Mark-32px.png) GitHub Stats
 
 <a href="https://github.com/arpatterson31/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpatterson31&show_icons=true&theme= tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpatterson31&show_icons=true&theme=tokyonight" />
 </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpatterson31&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
