@@ -6,7 +6,7 @@ I'm Audrey! I'm a Software Developer based in Seattle, WA. I'm experienced in Ja
 
 Aside from software development, I enjoy spending time with my daughter and two chonky kitties. I love creating art, collecting art in the form of tattoos, and geeking out over the hottest celebrity gossip!
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
   - TypeScript
   - iOS & Swift
 
