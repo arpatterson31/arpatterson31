@@ -6,6 +6,10 @@ I'm Audrey! I'm a Software Developer based in Seattle, WA. I'm experienced in Ja
 
 Aside from software development, I enjoy spending time with my daughter and two chonky kitties. I love creating art, collecting art in the form of tattoos, and geeking out over the hottest celebrity gossip!
 
+- 🌱 I’m currently learning:
+  - TypeScript
+  - iOS & Swift
+
 I love making new connections so please reach out to me on the following social accounts.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-patterson31/)
