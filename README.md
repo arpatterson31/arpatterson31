@@ -1,4 +1,4 @@
-![header img](./img/header.png)
+![header img](./img/audrey-banner.png)
 
 ## < Hey there, hey! />
 
