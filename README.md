@@ -1,4 +1,4 @@
-![header img](./img/audrey-banner.png)
+![header img](./img/linkedin-banner.png)
 
 ## < Hey there, hey! />
 
