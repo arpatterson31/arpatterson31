@@ -43,15 +43,13 @@ I love making new connections so please reach out to me on the following social 
 
 <img width="672" alt="GitHub Skyline for 2022" src="https://raw.githubusercontent.com/arpatterson31/arpatterson31/main/img/github-skyline-2022.png">
 
-### 📃 Certs
+### 📃 📚 Certs
 
 <a href="https://www.credly.com/badges/d6bc1ed7-c406-4503-ad2f-ebba797f680e/public_url">
   <img src="./img/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge">
 </a>
 
 ### 💖 Thanks for stopping by! 💖
-
-![Profile views]([https://gpvc.arturio.dev/arpatterson31](https://github-readme-stats.vercel.app/api/top-langs?username=arpatterson31&show_icons=true&locale=en&layout=compact))
 
 ### Shout-out Resources
 
