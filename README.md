@@ -35,6 +35,10 @@ I love making new connections so please reach out to me on the following social 
 
 <img width="672" alt="GitHub Skyline for 2022" src="https://raw.githubusercontent.com/arpatterson31/arpatterson31/main/img/github-skyline-2022.png">
 
+### 📃 Certs
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d6bc1ed7-c406-4503-ad2f-ebba797f680e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### 💖 Thanks for stopping by! 💖
 
 ![Profile views](https://gpvc.arturio.dev/arpatterson31)
