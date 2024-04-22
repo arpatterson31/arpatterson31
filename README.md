@@ -41,7 +41,7 @@ I love making new connections so please reach out to me on the following social 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpatterson31&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img width="672" alt="GitHub Skyline for 2022" src="https://raw.githubusercontent.com/arpatterson31/arpatterson31/main/img/github-skyline-2022.png">
+<img width="672" alt="GitHub Skyline for 2022" src="./img/skyline-2023.png">
 
 ### 📃 📚 Certs
 
