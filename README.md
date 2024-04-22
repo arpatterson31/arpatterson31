@@ -38,7 +38,7 @@ I love making new connections so please reach out to me on the following social 
 ### 📃 Certs
 
 <a href="https://www.credly.com/badges/d6bc1ed7-c406-4503-ad2f-ebba797f680e/public_url">
-  ![Cloud Practitioner Certification Badge](./img/aws-certified-cloud-practitioner.png)
+  <img src="./img/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge">
 </a>
 
 ### 💖 Thanks for stopping by! 💖
