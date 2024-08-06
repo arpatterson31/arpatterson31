@@ -43,8 +43,6 @@ I love making new connections so please reach out to me on the following social 
 
 <img width="672" alt="GitHub Skyline for 2022" src="./img/skyline-2023.png">
 
-![my image](https://images.unsplash.com/photo-1488740304459-45c4277e7daf?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D "my image" =50%)
-
 ### 📃 📚 Certs
 
 <a href="https://www.credly.com/badges/d6bc1ed7-c406-4503-ad2f-ebba797f680e/public_url">
